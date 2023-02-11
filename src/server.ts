@@ -1,5 +1,6 @@
 import express from "express"
 import { AppDataSource } from "./data-source"
+import { router } from "./routes";
 
 var cors = require('cors')
 
@@ -11,9 +12,7 @@ AppDataSource.initialize().then(() => {
   app.use(cors())
 
 
-  app.get('/test', (req, res, next) => {
-    res.send("<h1>Olá Mundo</h1>")
-  })
+  app.use(router)
 
 
   return app.listen(3000, () => { console.log('https://localhost:3000') })
