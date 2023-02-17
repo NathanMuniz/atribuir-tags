@@ -1,7 +1,7 @@
 import { getCustomRepository } from "typeorm";
 import { UserRepository } from "../repositories/UserRepository"
 
-interface IUserRequest {
+export interface IUserRequest {
   name: string;
   email: string;
   password: string;

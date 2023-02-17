@@ -5,7 +5,7 @@
   "main": "server.ts",
   "scripts": {
     "dev-run": "ts-node-dev src/test.ts",
-    "dev": "ts-node-dev src/sertest.ts",
+    "dev": "ts-node-dev src/server.ts",
     "migration:generate": "typeorm-ts-node-commonjs -d ./src/data-source.ts migration:generate ./src/database/migrations/default",
     "migration:run": "typeorm-ts-node-commonjs -d ./src/data-source.ts migration:run"
   },
