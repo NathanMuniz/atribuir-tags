@@ -3,6 +3,7 @@ import { Entity, JoinColumn, ManyToOne, PrimaryColumn, Column, CreateDateColumn 
 
 import { User } from "./User"
 import { Tag } from "./Tag"
+import { Exclude } from "class-transformer";
 
 @Entity("complements")
 class Compliment {
