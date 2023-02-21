@@ -16,4 +16,5 @@ A API usa Node/Express server com database SQLite. Usamos o TypeORM com class-tr
 
 ## Features
 
-- Primeira feature - password encryt wthi byd [passo a passo](/passo-a-passo/primeira-feature.md)
+- Primeira feature - password encryt wthi byd [explicação passo a passo](/passo-a-passo/primeira-feature.md)
+- Segundo feature - paswor dfasfdasfsdaf sda 
