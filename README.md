@@ -15,3 +15,5 @@ A API usa Node/Express server com database SQLite. Usamos o TypeORM com class-tr
 **Stack**: TypeScript, Node.js, SQLite, TypeORM.
 
 ## Features
+
+- Primeira feature - password encryt wthi byd (passo a passo)[passo-passo/primeira-feature.md]
