@@ -16,4 +16,4 @@ A API usa Node/Express server com database SQLite. Usamos o TypeORM com class-tr
 
 ## Features
 
-- Configuração e Instalação inicial - instação de biblioteca, configuração de banco de dados e iniciando aplicação. (passo a passo)[passo-passo/configuracao-inicial.md]
+- Configuração e Instalação inicial - instação de biblioteca, configuração de banco de dados e iniciando aplicação. (passo-a-passo)[passo-passo/configuracao-inicial.md]
