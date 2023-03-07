@@ -17,4 +17,4 @@ A API usa Node/Express server com database SQLite. Usamos o TypeORM com class-tr
 ## Features
 
 - Configuração e Instalação inicial - instação de biblioteca, configuração de banco de dados e iniciando aplicação. [passo a passo](passo-a-passo/configuracao-inicial.md)
-- Create user - Entidade user e métodos responsáveis por criar um novo usuário. (passo a passo)[passo-a-passo/create-user.md]
+- Create user - Entidade user e métodos responsáveis por criar um novo usuário. [passo a passo](passo-a-passo/create-user.md)
