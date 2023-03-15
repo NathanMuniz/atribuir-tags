@@ -4,7 +4,7 @@
 
 - [Usuários](#user/usuário)
 - [Tags](#tags)
-- [Elogios](#Compliment/Elogio)
+- [Elogios](#Compliments/Elogios)
 
 ## User/Usuário
 
