@@ -6,7 +6,7 @@
 - [Tags](#tags)
 - [Elogios](#Compliments-Elogios)
 
-## User/Usuário
+## User-Usuário
 
 ---
 
