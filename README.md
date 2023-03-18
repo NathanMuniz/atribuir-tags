@@ -125,7 +125,7 @@ POST:  [http://localhost:](http://localhost:3000/)PORT/login
 	"password": "12345"
 }
 
-// Response - token de autenticação
+Response - token de autenticação
 "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hc3RlckBnbWFpbC5jb20iLCJpYXQiOjE2NzY5ODYyODAsImV4cCI6MTY3NzA3MjY4MCwic3ViIjoiYzlhNDc5ZmQtNmJiMC00NTBiLTgxODEtYjcxNjJmYWMxNTY0In0.0M9OUgFOiyyiSE78N4nfltrxF8GJ9i8LvYqt-meN8Jo"
 ```
 
@@ -134,10 +134,10 @@ POST:  [http://localhost:](http://localhost:3000/)PORT/login
 GET: [http://localhost:](http://localhost:3000/)PORT/users
 
 ```json
-// Bearer Token - tokne de autentiação
+Bearer Token - tokne de autentiação
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hc3RlckBnbWFpbC5jb20iLCJpYXQiOjE2NzY5ODI3NzgsImV4cCI6MTY3NzA2OTE3OCwic3ViIjoiYzlhNDc5ZmQtNmJiMC00NTBiLTgxODEtYjcxNjJmYWMxNTY0In0.NSqgdfMTJoHbepVWqftGgG71tZ-KnJ-BnO9o185s5W0
 
-// Response 
+Response 
 [
 	{
 		"id": "efe009b6-ab22-4167-bf1e-328719ccefe7",
@@ -169,7 +169,7 @@ POST:  [http://localhost:](http://localhost:3000/)PORT/tags
 POST: [http://localhost:](http://localhost:3000/)PORT/tags
 
 ```json
-// Barier Token 
+Barier Token 
 
 ```
 
