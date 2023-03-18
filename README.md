@@ -31,7 +31,7 @@ O Elogio tem relação com a entidade Tag e com a entidade Usuário. Um Elogio p
 
 ## Autenticação
 
-Autenticação do usuário é feita passando o username e senha, e retorna um token de autenticaçãoEsse token de autenticação é válido por 1 dia e você pode usar ele para acessar outros recursos da aplicação. 
+Autenticação do usuário é feita passando o username e senha, e retorna um token de autenticação. Esse token de autenticação é válido por 1 dia e você pode usar ele para acessar outros recursos da aplicação. 
 
 ```mermaid
 sequenceDiagram
