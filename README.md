@@ -125,7 +125,7 @@ POST:  [http://localhost:](http://localhost:3000/)PORT/login
 	"password": "12345"
 }
 
-/* Response - token de autenticação */
+" // Response - token de autenticação "
 "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hc3RlckBnbWFpbC5jb20iLCJpYXQiOjE2NzY5ODYyODAsImV4cCI6MTY3NzA3MjY4MCwic3ViIjoiYzlhNDc5ZmQtNmJiMC00NTBiLTgxODEtYjcxNjJmYWMxNTY0In0.0M9OUgFOiyyiSE78N4nfltrxF8GJ9i8LvYqt-meN8Jo"
 ```
 
