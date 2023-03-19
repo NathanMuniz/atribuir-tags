@@ -4,7 +4,7 @@
 
 - [Usuário](#User-Usuário)
 - [Tags](#tags)
-- [Elogios](#Compliment/Elogio)
+- [Elogios](#Compliment-Elogio)
 - [Autenticação](#Autenticação)
 - [Autorização](#Autorização)
 - [Rest](#Rest)
@@ -28,7 +28,7 @@ As Tags são usadas para cadastrar novos Compliments/Elogios. Elas representam u
 
 O Cadastro de Tags tem como regras de negócios: não é permitido cadastrar tag sem nome, não é permitido cadastrar mais de uma tag como o mesmo nome, não é permitido o cadastro de tags por usuários que não sejam Admin.
 
-## Compliments/Elogios
+## Compliments-Elogio
 
 Os Compliments, ou em português Elogios, são criados quando um usuário define uma Tag para outro Usuários. Além da Tag e o ID do Usuário, é possível enviar uma mensagem junto com o Elogio.
 
