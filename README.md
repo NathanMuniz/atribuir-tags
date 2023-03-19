@@ -134,7 +134,7 @@ POST:  [http://localhost:](http://localhost:3000/)PORT/login
 GET: [http://localhost:](http://localhost:3000/)PORT/users
 
 ```json
-Bearer Token - tokne de autentiação
+'Bearer Token - tokne de autentiação'
 eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6Im1hc3RlckBnbWFpbC5jb20iLCJpYXQiOjE2NzY5ODI3NzgsImV4cCI6MTY3NzA2OTE3OCwic3ViIjoiYzlhNDc5ZmQtNmJiMC00NTBiLTgxODEtYjcxNjJmYWMxNTY0In0.NSqgdfMTJoHbepVWqftGgG71tZ-KnJ-BnO9o185s5W0
 
 Response 
